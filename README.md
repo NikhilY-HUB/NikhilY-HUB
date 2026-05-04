@@ -1,4 +1,4 @@
-## Hi there 👋
+## Learning intermediate level python. 
 
 <!--
 **NikhilY-HUB/NikhilY-HUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
